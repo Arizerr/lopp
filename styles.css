@@ -1,7 +1,4 @@
-@font-face {
-  font-family: 'Milkyway';
-  src: url('Milkyway.ttf') format('truetype');
-}
+@import url('https://fonts.cdnfonts.com/css/agbalumo');
 
 body {
   margin: 0;
@@ -11,7 +8,7 @@ body {
   justify-content: center;
   background: #f8a8c8;
   overflow: hidden;
-  font-family: 'Milkyway', cursive;
+  font-family: 'Agbalumo', cursive;
 }
 
 .frame {
